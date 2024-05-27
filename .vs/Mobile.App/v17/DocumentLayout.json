@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\authentication\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\authentication\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\authentication\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\authentication\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\main.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\main.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\pages\\registercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\pages\\registercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\pages\\logincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\pages\\logincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|d:\\cutoutwiz projects\\other\\mobile\\mobile.app\\mobile.app\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A7EDABB-35AF-4FD6-87BD-C8A84ACD2E7C}|Mobile.App\\Mobile.App.csproj|solutionrelative:mobile.app\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Mobile.App\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Mobile.App\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:41:53.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Mobile.App\\MauiProgram.cs",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\MauiProgram.cs",
+              "RelativeToolTip": "Mobile.App\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:38:45.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.razor",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Main.razor",
+              "RelativeDocumentMoniker": "Mobile.App\\Main.razor",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Main.razor",
+              "RelativeToolTip": "Mobile.App\\Main.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:30:44.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginComponent.razor",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Pages\\LoginComponent.razor",
+              "RelativeDocumentMoniker": "Mobile.App\\Pages\\LoginComponent.razor",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Pages\\LoginComponent.razor",
+              "RelativeToolTip": "Mobile.App\\Pages\\LoginComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:32:16.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Mobile.App\\Pages\\FetchData.razor",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Mobile.App\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:32:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Mobile.App\\Pages\\Index.razor",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Pages\\Index.razor",
+              "RelativeToolTip": "Mobile.App\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:32:07.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Mobile.App\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Mobile.App\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAvwE8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:31:25.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterComponent.razor",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Pages\\RegisterComponent.razor",
+              "RelativeDocumentMoniker": "Mobile.App\\Pages\\RegisterComponent.razor",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Pages\\RegisterComponent.razor",
+              "RelativeToolTip": "Mobile.App\\Pages\\RegisterComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:31:25.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Authentication\\UserSession.cs",
+              "RelativeDocumentMoniker": "Mobile.App\\Authentication\\UserSession.cs",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Authentication\\UserSession.cs",
+              "RelativeToolTip": "Mobile.App\\Authentication\\UserSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:29:49.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Authentication\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "Mobile.App\\Authentication\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Authentication\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "Mobile.App\\Authentication\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:26:10.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "Mobile.App\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "D:\\CutOutWiz Projects\\Other\\Mobile\\Mobile.App\\Mobile.App\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "Mobile.App\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T17:41:56.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

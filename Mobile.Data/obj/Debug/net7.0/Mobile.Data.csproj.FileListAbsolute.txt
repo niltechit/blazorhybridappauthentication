@@ -1,0 +1,11 @@
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\bin\Debug\net7.0\Mobile.Data.deps.json
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\bin\Debug\net7.0\Mobile.Data.dll
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\bin\Debug\net7.0\Mobile.Data.pdb
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\obj\Debug\net7.0\Mobile.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\obj\Debug\net7.0\Mobile.Data.AssemblyInfoInputs.cache
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\obj\Debug\net7.0\Mobile.Data.AssemblyInfo.cs
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\obj\Debug\net7.0\Mobile.Data.csproj.CoreCompileInputs.cache
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\obj\Debug\net7.0\Mobile.Data.dll
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\obj\Debug\net7.0\refint\Mobile.Data.dll
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\obj\Debug\net7.0\Mobile.Data.pdb
+D:\CutOutWiz Projects\Other\Mobile\Mobile.App\Mobile.Data\obj\Debug\net7.0\ref\Mobile.Data.dll
